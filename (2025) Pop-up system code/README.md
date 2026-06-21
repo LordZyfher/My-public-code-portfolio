@@ -9,7 +9,7 @@ Here are some of the main tasks I completed for the project:
 * Drone auto correction movement system for after crashes.
 * User tests for the tasks above.
 
-The pop-up system was made to be easy to use for showing content on the side of the screen to users temporarily. One of the pop-ups can be seen in the image below in the top right corner.<br>
+The pop-up system was made to be easy to use for showing content on the side of the screen to users temporarily. One of the pop-ups can be seen in the video below in the top right corner.<br>
 ![GIF of the pop-up UI visual](https://github.com/LordZyfher/My-public-code-portfolio/blob/main/(2025)%20Pop-up%20system%20code/Images%20%26%20video/Pop-upUI_Finalized.gif)
 
 ### Some of the requirements I set up for the pop-up system:
