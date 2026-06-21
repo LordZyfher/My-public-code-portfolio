@@ -10,6 +10,8 @@ Here are some of the main tasks I completed for the project:
 * User tests for the tasks above.
 
 The pop-up system was made to be easy to use for showing content on the side of the screen to users temporarily.
+![App Platform](https://github.com/LordZyfher/My-public-code-portfolio/blob/main/(2025)%20Pop-up%20system%20code/Images%20%26%20video/Pop-upUI_Visual.JPG)
+
 ### Some of the requirements I set up for the pop-up system:
 * Clearly visible title field (allows users to get info on what the pop-up is about fast).
 * An optional description text visible to users (for more details on the subject).
