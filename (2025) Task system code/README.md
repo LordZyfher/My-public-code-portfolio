@@ -25,6 +25,7 @@ The task system was made to be versatile and easy to use and expand upon by deve
 *A manager could be useful for handling the order of tasks etc, but it was not necesary for this part of the project.*
 * Different types of conditions can be added through a single button with options.
 
+The inspector for the task system looks like this:
 ![Image of the Inspector UI for the tasks](https://github.com/LordZyfher/My-public-code-portfolio/blob/main/(2025)%20Task%20system%20code/Images/UnityInspectorUI_ExampleTask.JPG)
 
 ### How I went about making it easy to expand upon:
