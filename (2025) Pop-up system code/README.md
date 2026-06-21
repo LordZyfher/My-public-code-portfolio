@@ -41,10 +41,12 @@ I also wrote a small custom script that can be used to make image objects scale 
 
 ### How the system works:
 There is a Pop-Up_Panel object which is the main object of a prefab and has a PopUpManager class.<br>
-Any requests from show/hide to what content should be put on the next pop-up is handled through this class.<br>
+Any requests from show/hide to what content should be put on the next pop-up is handled through this manager class.<br>
+![Image of the pop-up panel prefab and its manager inspector](https://github.com/LordZyfher/My-public-code-portfolio/blob/main/(2025)%20Pop-up%20system%20code/Images%20%26%20video/PopUpManager_Inspector.JPG)
 The manager assigns received pop-up profile data to the right PopUpUIController child objects and keeps them show up in the right order.<br>
 The UI controller invokes an event with the data as output when the manager gives it data.
 In the prefab, that event calls a PopUpDataController script method (that class is on the same object on the prefab).<br>
+![Image of the pop-up prefab and its controller inspector](https://github.com/LordZyfher/My-public-code-portfolio/blob/main/(2025)%20Pop-up%20system%20code/Images%20%26%20video/PopUp_DatAndUIControllers_Inspector.JPG)
 The data controller then assigns all data to the text/images etc.<br>
 Once that data is assigned, the UI controller will then slide the pop-up into view.<br>
 Closing any pop-up requires the manager to receive data a pop-up so the pop-up with that data will slide out of view.
